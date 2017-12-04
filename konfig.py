@@ -1,0 +1,8 @@
+mqttServerAddress = 'test.mosquitto.org'
+mqttServerPort = '1883'
+subscribeChannel = ''
+AESPassword = ''
+dbName = ''
+dbUsername = ''
+dbPassword = ''
+dbHost = ''

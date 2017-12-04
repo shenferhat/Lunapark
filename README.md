@@ -18,8 +18,3 @@ Get safe, fast and free of charge data from your remote PostgreSQL server as JSO
 ## Author
 
 * **Şen Ferhat**
-
-```
-Android version for remote client soon
-```
-

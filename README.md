@@ -2,7 +2,7 @@
 Get safe, fast and free of charge data from your remote PostgreSQL server as JSON.
 
 ## What does Lunapark do?
-*mainClient sends your AES encrypted query to a public MQTT broker
+mainClient sends your AES encrypted query to a public MQTT broker
 *mainServer reads your message and decrypts it, executes your query
 *mainServer encrypts the result JSON and sends it back to answer channel
 *???
